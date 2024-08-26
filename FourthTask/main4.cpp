@@ -21,4 +21,5 @@ int main() {
     }
     int recurNum = totalSum - minSum;
     std::cout << "The first number: " << x << " , a recurring number: " << recurNum << std::endl;
+    return 0;
 }
